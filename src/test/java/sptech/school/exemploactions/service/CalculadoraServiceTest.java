@@ -1,11 +1,9 @@
-package sptech.school.exemploactions;
+package sptech.school.exemploactions.service;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import sptech.school.exemploactions.service.CalculadoraService;
 
 public class CalculadoraServiceTest {
 
